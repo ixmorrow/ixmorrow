@@ -3,7 +3,7 @@
 [![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ixmorrow&count_private=true&show_icons=true&theme=discord_old_blurple)](https://github.com/ixmorrow/github-readme-stats)
 
  ## Languages
-<img src="{https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white}" /> 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 <!--
 Here are some ideas to get you started:
