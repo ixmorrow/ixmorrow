@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ixmorrow&count_private=true&show_icons=true&theme=dracula)](https://github.com/ixmorrow/github-readme-stats)
+[![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ixmorrow&count_private=true&show_icons=true&theme=discord_old_blurple)](https://github.com/ixmorrow/github-readme-stats)
 
 <!--
 Here are some ideas to get you started:
