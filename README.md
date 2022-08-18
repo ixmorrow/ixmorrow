@@ -3,7 +3,7 @@
 [![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ixmorrow&count_private=true&show_icons=true&theme=discord_old_blurple)](https://github.com/ixmorrow/github-readme-stats)
 
  ## Languages
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 <!--
 Here are some ideas to get you started:
