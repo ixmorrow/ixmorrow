@@ -6,6 +6,7 @@
      * [Intro to Solana Development Course](https://soldev.app/course)
 
 - 🌱 I’m currently interested in
+    * Solana
     * [Move Lang](https://move-book.com/)
     * [Aptos](https://aptoslabs.com/) and [Sui](https://sui.io/)
 
