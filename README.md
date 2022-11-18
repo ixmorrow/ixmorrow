@@ -2,7 +2,8 @@
 
 
 - 🔭 Things I’m currently working on 
-     * [Bermuda Finance](https://bermudafinance.xyz/)
+     * [Dart Labs](https://github.com/sol-dart)
+     * Lead Content Creator - [Solana Intermediate Course @ Metacrafters](https://academy.metacrafters.io/content/solana-intermediate)
      * [Intro to Solana Development Course](https://soldev.app/course)
 
 - 🌱 I’m currently interested in
