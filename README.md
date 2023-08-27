@@ -2,8 +2,8 @@
 
 
 - 🔭 Things I’m currently working on 
-     * [Dart Labs](https://github.com/sol-dart)
-     * Lead Content Creator - [Solana Intermediate Course @ Metacrafters](https://academy.metacrafters.io/content/solana-intermediate)
+     * [AI/ML](https://github.com/ixmorrow/machine-learning)
+       * Currently working through the [Standford/Deep Learning Machine Learning Specialization on Coursera](https://www.coursera.org/specializations/machine-learning-introduction)
      * [Intro to Solana Development Course](https://soldev.app/course)
 
 - 🌱 I’m currently interested in
