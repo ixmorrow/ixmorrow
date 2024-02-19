@@ -3,13 +3,13 @@
 
 - 🔭 Things I’m currently working on 
      * [AI/ML](https://github.com/ixmorrow/machine-learning)
-       * Currently working through the [Standford/Deep Learning Machine Learning Specialization on Coursera](https://www.coursera.org/specializations/machine-learning-introduction)
+       * Currently working through the [Fast.ai Deep Learning Course](https://www.coursera.org/specializations/machine-learning-introduction](https://course.fast.ai/)
      * [Intro to Solana Development Course](https://soldev.app/course)
 
 - 🌱 I’m currently interested in
     * Solana
-    * [Move Lang](https://move-book.com/)
-    * [Aptos](https://aptoslabs.com/) and [Sui](https://sui.io/)
+    * Machine Learning/ AI
+    * GPU Development
 
 - 📫 How to reach me:
    * [Twitter](https://twitter.com/ivan_morrow)
