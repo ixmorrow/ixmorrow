@@ -4,11 +4,11 @@
 - 🔭 Things I’m currently working on 
      * [AI/ML](https://github.com/ixmorrow/machine-learning)
        * Currently working through the [fastai Deep Learning Course](https://course.fast.ai/)
-     * [Intro to Solana Development Course](https://soldev.app/course)
+     * Contributing to the [Intro to Solana Development Course](https://soldev.app/course)
 
 - 🌱 I’m currently interested in
     * Solana
-    * Machine Learning/ AI
+    * Machine Learning/AI
     * GPU Development
 
 - 📫 How to reach me:
