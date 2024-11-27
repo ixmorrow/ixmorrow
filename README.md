@@ -9,8 +9,8 @@
 
 - 🌱 I’m currently interested in
   * Machine Learning/AI
-    * GPU Development
-    * Solana
+  * GPU Development
+  * Solana
 
 - 📫 How to reach me:
    * [Twitter](https://twitter.com/ivan_morrow)
