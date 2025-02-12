@@ -1,18 +1,25 @@
 ### Hi there 👋
 
 
-- 🔭 Things I’m currently working on
+🔭 Things I’m currently working on
 * [GPU Systems Programming](https://github.com/ixmorrow/gpu-systems-learning)
+   * [PMPP Notes](https://github.com/ixmorrow/pmpp-Notes)
 * [AI/ML](https://github.com/ixmorrow/machine-learning)
-  * Currently working through the [fastai Deep Learning Course](https://course.fast.ai/)
-* Contributing to the [Intro to Solana Development Course](https://soldev.app/course)
+  * Combining cloud and ML skills -> [LLM Inference pipeline deployed to GKE cluster (w/ HuggingFace + PyTorch)](https://github.com/ixmorrow/k8s-distributed-llm-inference)
 
-- 🌱 I’m currently interested in
+
+
+🌱 I’m currently interested in
   * Machine Learning/AI
   * GPU Development
-  * Solana
 
-- 📫 How to reach me:
+Things I have worked on in the past
+* Worked through the [fastai Deep Learning Course](https://course.fast.ai/) -> [Notes from the course here](https://github.com/ixmorrow/fastai-course-2024)
+* [Quantized model inference on an Edge TPU](https://github.com/ixmorrow/edge-tpu-image-classification)
+* Contributing to the [Intro to Solana Development Course](https://soldev.app/course)
+
+  
+📫 How to reach me:
    * [Twitter](https://twitter.com/ivan_morrow)
 
 
