@@ -11,6 +11,7 @@
 
 🌱 I’m currently interested in
   * Machine Learning/AI
+  * Golang
   * GPU Development
 
 Things I have worked on in the past
